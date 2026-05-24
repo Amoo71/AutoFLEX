@@ -1,1 +1,1 @@
-{ Filter = { Bundles = ( "com.spotify.client.app" ); }; }
+{ Filter = { Bundles = ( "com.apple.UIKit", "com.spotify.client.app" ); }; }
